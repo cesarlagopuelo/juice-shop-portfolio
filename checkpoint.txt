@@ -1,0 +1,91 @@
+CHECKPOINT
+Fecha: 30/06/2026
+Hora: _____09.33__
+
+Proyecto:
+OWASP Juice Shop QA Automation Portfolio
+
+Ubicación local:
+C:\Users\ecosd\juice-shop-portfolio
+
+Estado general:
+Proyecto en desarrollo.
+
+Objetivo:
+Construir un portfolio profesional de QA Automation sobre OWASP Juice Shop aplicando un enfoque integral de QA, desde el análisis funcional hasta la automatización UI y API.
+
+==================================================
+ESTADO ACTUAL DEL PROYECTO
+==================================================
+
+✓ Repositorio Git inicializado y sincronizado con GitHub.
+✓ Entorno local completamente operativo.
+✓ OWASP Juice Shop ejecutándose mediante Docker.
+✓ Cypress instalado y configurado.
+✓ Smoke Test funcionando correctamente.
+✓ Postman instalado.
+✓ Newman instalado y operativo.
+
+==================================================
+ESTRUCTURA ACTUAL DEL REPOSITORIO
+==================================================
+
+Raíz
+
+✓ package.json
+✓ package-lock.json
+✓ cypress.config.js
+✓ docker-compose.yml
+✓ .gitignore
+✓ prompt.txt
+✓ checkpoint.txt
+
+Carpeta Docs
+
+Docs/
+└── qa/
+    ✓ REQ-01-Authentication.md
+    ✓ juice-shop-test-cases.xlsx
+
+Carpeta Cypress
+
+cypress/
+└── e2e/
+    ✓ juice-shop.cy.js
+
+==================================================
+DOCUMENTACIÓN COMPLETADA
+==================================================
+
+✓ Prompt Maestro de trabajo.
+✓ REQ-01 Authentication.
+✓ Template profesional de Casos de Prueba.
+✓ Casos:
+    - TC-AUTH-001
+    - TC-AUTH-002
+
+==================================================
+PRÓXIMAS ETAPAS
+==================================================
+
+□ Reexplorar funcionalmente Juice Shop.
+□ Documentar módulos y mapa de navegación.
+□ Completar requerimientos funcionales.
+□ Definir In Scope / Out of Scope por módulo.
+□ Completar diseño de Casos de Prueba.
+□ Priorizar escenarios candidatos a automatización.
+□ Implementar automatización UI.
+□ Implementar automatización API.
+□ Elaborar README profesional del proyecto.
+
+==================================================
+CRITERIOS DE TRABAJO
+==================================================
+
+- Prioridad absoluta: eficacia y eficiencia.
+- Una tarea por vez.
+- No asumir información.
+- Fundamentar técnicamente cada decisión.
+- Documentar antes de automatizar.
+- Mantener trazabilidad entre requerimientos, casos de prueba y automatización.
+- Construir un portfolio profesional, sin documentación de relleno.
